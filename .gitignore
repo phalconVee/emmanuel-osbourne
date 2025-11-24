@@ -1,0 +1,13 @@
+# Miscellaneous
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+.idea/
+
+.idea/
+
